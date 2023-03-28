@@ -11,9 +11,9 @@
 
 <h1> ✍ Technologies I use </h1>
 <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
-
+  
 <h1> 📈 My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=raidenforeva&show_icons=true&theme=dark (https://github-readme-stats.vercel.app/api?username=raidenforeva&show_icons=true)" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 
 <h1> 💎 My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=raidenforeva&theme=onedark" />
